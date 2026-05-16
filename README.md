@@ -9,3 +9,6 @@ I made this project primarily for the fun of it. I've always found challenges wi
 <img width="740" height="515" alt="Screenshot 2026-05-11 at 11 21 07 AM" src="https://github.com/user-attachments/assets/abb597a1-72b7-4cef-97ae-72b5d41bbc8d" />
 <img width="1525" height="699" alt="Screenshot 2026-05-11 at 11 20 53 AM" src="https://github.com/user-attachments/assets/8080eb03-961b-4d6e-8b7c-51cffb9b5970" />
 <img width="767" height="382" alt="Screenshot 2026-05-11 at 11 03 00 AM" src="https://github.com/user-attachments/assets/5ff89ca0-579e-42a7-9a95-564515e9cd95" />
+
+Bill of materials:
+1x PCB (JLCPCB) -- $62.70 <img width="1011" height="332" alt="Screenshot 2026-05-13 at 1 01 41 PM" src="https://github.com/user-attachments/assets/81d94fdd-df31-4700-b93a-d3ef521ad22d" />
