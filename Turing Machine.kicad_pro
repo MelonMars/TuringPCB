@@ -188,6 +188,7 @@
       ],
       "track_widths": [
         0.0,
+        0.15,
         0.5,
         1.5
       ],
@@ -502,7 +503,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Turing Machine.step",

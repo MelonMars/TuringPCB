@@ -99,3 +99,9 @@ I set up the power. I figured out what voltage my chips are designed to run at (
 I moved the USB-C port so that it can be properly used and plugged in. I also added some text on the silk screen explaining what it is and how it works.
 
 ![PCB layout](https://stasis.hackclub-assets.com/images/1779051017792-tp8c5i.png)
+
+# Resolve errors
+
+<small>Jun 21, 2026 1/2 hours</small>
+I moved the USB-C and modified its clearances so it would stop throwing errors in the DRC. I also routed some previously unrouted paths I hadn't seen.
+![DRC & PCB Layout](https://cdn.hackclub.com/019eea0b-2eb6-7c73-93a2-8a3013172f92/Screenshot%202026-06-21%20at%207.57.13%E2%80%AFAM.png)
