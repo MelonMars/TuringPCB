@@ -105,3 +105,9 @@ I moved the USB-C port so that it can be properly used and plugged in. I also ad
 <small>Jun 21, 2026 1/2 hours</small>
 I moved the USB-C and modified its clearances so it would stop throwing errors in the DRC. I also routed some previously unrouted paths I hadn't seen.
 ![DRC & PCB Layout](https://cdn.hackclub.com/019eea0b-2eb6-7c73-93a2-8a3013172f92/Screenshot%202026-06-21%20at%207.57.13%E2%80%AFAM.png)
+
+# Improve routing
+
+<small>Jun 22-23, 2026 3.5 hours</small>
+I revamped the entire routing, making it a 4-layer PCB with signal/GND/VCC/signal, and made it look better and all around simpler and sleeker.<img width="982" height="507" alt="Screenshot 2026-06-23 at 11 04 55 PM" src="https://github.com/user-attachments/assets/c73e19a8-a553-44cb-b902-a4999c1269fc" />
+
