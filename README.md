@@ -7,8 +7,8 @@ I made this project primarily for the fun of it. I've always found challenges wi
 <img width="1212" height="830" alt="Screenshot 2026-05-11 at 11 21 27 AM" src="https://github.com/user-attachments/assets/38dcdc6c-290d-4321-9c3f-e6f0e1512bc7" />
 <img width="1075" height="830" alt="Screenshot 2026-05-11 at 11 21 18 AM" src="https://github.com/user-attachments/assets/b1283450-5c3f-49dc-bdea-a4b91b3566e3" />
 <img width="740" height="515" alt="Screenshot 2026-05-11 at 11 21 07 AM" src="https://github.com/user-attachments/assets/abb597a1-72b7-4cef-97ae-72b5d41bbc8d" />
-<img width="1525" height="699" alt="Screenshot 2026-05-11 at 11 20 53 AM" src="https://github.com/user-attachments/assets/8080eb03-961b-4d6e-8b7c-51cffb9b5970" />
-<img width="767" height="382" alt="Screenshot 2026-05-11 at 11 03 00 AM" src="https://github.com/user-attachments/assets/5ff89ca0-579e-42a7-9a95-564515e9cd95" />
+<img width="2298" height="1226" alt="image" src="https://github.com/user-attachments/assets/52df0f63-5dfb-42a2-986e-8fa479e9a6fa" />
+<img width="982" height="507" alt="Screenshot 2026-06-23 at 11 04 55 PM" src="https://github.com/user-attachments/assets/dc32a20d-be12-458c-86bb-fae4c496cfd8" />
 
 Bill of materials:
 1x PCB (JLCPCB) -- $62.70 <img width="1011" height="332" alt="Screenshot 2026-05-13 at 1 01 41 PM" src="https://github.com/user-attachments/assets/81d94fdd-df31-4700-b93a-d3ef521ad22d" />
